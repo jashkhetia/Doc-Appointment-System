@@ -1,0 +1,39 @@
+.form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 688px;
+    background-color: powderblue;
+}
+
+.register-form {
+    margin-top: 60px;
+    border: 1px solid gray;
+    padding: 10px;
+    width: 120%;
+}
+
+.login-form {
+    border: 1px solid gray;
+    padding: 20px;
+    width: 30%;
+    background-color: white;
+}
+
+.App-header {
+    background-color: white;
+}
+
+.register-form {
+    border: 1px solid gray;
+    width: 120%;
+    background-color: white;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    background-color: powderblue;
+    /* Replace '#yourColor' with your desired color code */
+}
